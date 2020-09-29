@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+README:
+------------------------------------------------------------------------------
+
+Niagara Version 4.9.0.198 
+(C) 2015 Tridium, Inc.
+
+The files in this directory and its contained subdirectories
+collectively comprise the distribution of the Niagara 4.9.0.198.
+
+Niagara will need to create a user "niagara" in order to work properly.
+For security reasons, this user's ID will be 5011. Please make sure that this
+user id is available before installing Niagara.
+
+For instructions on how to install Niagara 4.9.0.198,
+please read the INSTALL file.
+
+Once installed, a configured user can start, stop, and query niagarad
+with the command /usr/bin/niagaradctl.
+
+Type "niagaradctl --usage" at the prompt for instructions.
+
+If you have any questions, please visit the Niagara Community
+(https://www.niagara-community.com/).
+
+Thank you for using Niagara 4.9.0.198.
+
+------------------------------------------------------------------------------
+(C) 2015 Tridium, Inc.
+$Id: README,v 4.9.0.198 Tue Jun 16 19:44:17 Coordinated Universal Time 2020
+------------------------------------------------------------------------------

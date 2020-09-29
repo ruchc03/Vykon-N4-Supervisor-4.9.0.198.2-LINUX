@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+INSTALL:
+------------------------------------------------------------------------------
+
+To install Niagara, set you current working directory to that of the 
+directory that contains "install.sh" and enter the following at the
+prompt:
+
+  sudo bash install.sh
+
+The installation script will walk you through the rest of the installation.
+
+Once finished, the output of the installation can be found at /tmp/niagaraInstall_xx.log.
+
+If you have any questions, please consult the Niagara Community Knowledge
+Base. (https://www.niagara-community.com/) 
+
+Thank you for using Niagara 4.9.0.198.
+
+------------------------------------------------------------------------------
+(C) 2015 Tridium, Inc.
+$Id: INSTALL,v 4.9.0.198 Tue Jun 16 19:44:18 Coordinated Universal Time 2020
+------------------------------------------------------------------------------
